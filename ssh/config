@@ -1,0 +1,17 @@
+Host *
+   ServerAliveInterval 10
+
+Host vps
+   HostName ##
+   User ##
+   IdentityFile ~/.ssh/id_ed25519
+
+Host vps1
+   HostName ##
+   User ##
+   IdentityFile ~/.ssh/id_ed25519
+
+Host vps2
+   HostName ##
+   User ##
+   IdentityFile ~/.ssh/id_ed25519
